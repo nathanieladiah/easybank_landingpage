@@ -14,3 +14,6 @@ desktop and mobile versions first.
 
 Hide or show nav elements if needed on mobile
 using mixins and breakpoints
+
+# animated menu
+look for hamburger menus online, then try to build it myself.
